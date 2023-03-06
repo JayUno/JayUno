@@ -1,9 +1,7 @@
 ## 안녕하세요. IT 서비스 개발자 김준오입니다.
 
 ✉️ kjo980822@naver.com   
-
 📱 010-5125-8330   
-
 🏠 서울 광진구 능동
 
 # 🔎 Profile
@@ -34,33 +32,14 @@
 ## **Framework**
 
 - JAVA Spring
-    
-    심화 문법 
-    
-    데이터 추출 및 분석
-    
-    데이터 시각화 
-    
 - React Native
     
 ## **Language**
 
 - C/C++
-    
-    Algorithm
-    
 - Python
-    
-    Algorithm
-    
 - Java
-    
-    Spring Boot 
-    
 - JavaScript
-    
-    React
-    
 
 # [Project](https://www.notion.so/Project-273ab942c32f4accb324e1463900e0bf)
 
