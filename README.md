@@ -1,8 +1,8 @@
 ### Hi there 👋
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kjo980822)](https://solved.ac/kjo980822)<br/>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjo980822)](https://solved.ac/kjo980822)
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kjo980822)](https://solved.ac/kjo980822)<br/>
+ [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjo980822)](https://solved.ac/kjo980822)
 <!--
 **JayUno/JayUno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
