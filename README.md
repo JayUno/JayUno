@@ -3,8 +3,8 @@
 ✉️ kjo980822@naver.com   
 📱 010-5125-8330   
 🏠 서울 광진구 능동
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={kjo980822})](https://solved.ac/{kjo980822})
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjo980822)](https://solved.ac/kjo980822)
 
 # 🔎 Profile
 ### 경력
