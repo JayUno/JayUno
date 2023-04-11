@@ -11,8 +11,6 @@
  
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kjo980822)](https://velog.io/@kjo980822/velog)  
  
- ![Juno's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayUno&show_icons=true&theme=radical)
- 
  </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=150&section=footer)
