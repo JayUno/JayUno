@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?color=B897FF)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=capsule%20render&fontSize=90)
+
 ## 안녕하세요. IT 서비스 개발자 김준오입니다.
 
 ✉️ kjo980822@naver.com   
@@ -7,3 +8,4 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjo980822)](https://solved.ac/kjo980822)
  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kjo980822&theme=dark)
+![Footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer)
