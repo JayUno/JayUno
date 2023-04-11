@@ -6,6 +6,3 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjo980822)](https://solved.ac/kjo980822)
  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kjo980822&theme=dark)
-
-
-[JayUno - Overview](https://github.com/JayUno)
