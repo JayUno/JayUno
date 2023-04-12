@@ -36,23 +36,21 @@ LAS DEFCON 2022 | 정보보호특성화사업단 | 참관 | 2022.08
 Certificate | Grade | Date
 ---- | ---- | ----
 2022 소프트웨어융합대학 캠퍼스 새내기 전공 멘토링 | 대상 | 2022.12
-  
----   
+   
 💻Project💻 
- 
----   
+  
 🛰️Baekjoon🛰
  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjo980822)](https://solved.ac/kjo980822)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kjo980822&theme=dark)  
  
----  
 🥗Velog🥗 
  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kjo980822)](https://velog.io/@kjo980822/velog)  
  
 📨Contact📨  
-kjo980822@naver.com
+E-mail: kjo980822@naver.com  
+Instagram: juno_tiger
  
 </div>
 
