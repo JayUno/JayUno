@@ -37,7 +37,10 @@ Certificate | Grade | Date
 ---- | ---- | ----
 2022 소프트웨어융합대학 캠퍼스 새내기 전공 멘토링 | 대상 | 2022.12
    
-💻Project💻 
+💻Project💻  
+Certificate | Organization | Date
+---- | ---- | ----
+침해사고 대응을 위한 대시보드(Sentinel) | 캡스톤디자인 | 2023.06
   
 🛰️Baekjoon🛰
  
