@@ -36,11 +36,11 @@ IoT지식능력검정 1급 | 대한상공회의소 | 2022.09
 한자급수자격검정시험 준2급 | 대한상공회의소 | 2022.09   
  
 ✈️Language(희망사항)✈️
-Certificate | Organization | Level | Date
+Certificate | Level | Organization | Date
 ---- | ---- | ---- | ----
-Opic | ACTFL | AL | 2018 - 2023
-TOIEC | ETS | 900 | 2022.08  
-JLPT | 일본국제교육지원협회 | N1 | 2022.08
+Opic | AL | ACTFL | 2023.04
+TOIEC | 900 | ETS | 2022.08  
+JLPT | N1 | 일본국제교육지원협회 | 2022.08
  
 ☀️Activity☀️
 Course | Organization | Activity | Date
