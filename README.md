@@ -39,7 +39,7 @@ IoT지식능력검정 1급 | (사)한국사물인터넷협회 | 2019.06
 Certificate | Level | Organization | Date
 ---- | ---- | ---- | ----
 Opic | AL | ACTFL | 2023.04
-TOIEC | 900 | ETS | 2022.08  
+TOEIC | 900 | ETS | 2022.08  
 JLPT | N1 | 일본국제교육지원협회 | 2022.08
  
 ☀️Activity☀️
