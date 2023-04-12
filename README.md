@@ -2,26 +2,26 @@
 <div align="center">
 
 ---   
- **< Profile >**  
+ **< 🔎Profile🔎 >**  
  
- License & Activity & Awards
+ 🎖️License🎖️ & ☀️Activity☀️ & 🏆Awards🏆
  
 ---   
-**< Skills >**  
+**< ⚒️Skills⚒️ >**  
  
  Language & Framework
  
 ---   
-**< Project >**
+**< 👨🏻‍💻Project👨🏻‍💻 >**
  
 ---   
-**< Baekjoon >**  
+**< 🛰️Baekjoon🛰️ >**  
  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjo980822)](https://solved.ac/kjo980822)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kjo980822&theme=dark)  
  
 ---  
-**< Velog >**  
+**< 🥗Velog🥗 >**  
  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kjo980822)](https://velog.io/@kjo980822/velog)  
  
