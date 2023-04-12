@@ -1,16 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=190&section=header&text=Juno's%20GitHub!&fontSize=80&fontColor=FFFFFF)
 <div align="center">
+ 
+🔎Profile🔎
+ 
+ ⚒️Skills⚒️   
+ 
+ 🎖️License🎖️
+ 
+ ☀️Activity☀️
+ 
+ 🏆Awards🏆
 
----   
- **< 🔎Profile🔎 >**  
- 
- 🎖️License🎖️ & ☀️Activity☀️ & 🏆Awards🏆
- 
----   
-**< ⚒️Skills⚒️ >**  
- 
- Language & Framework
- 
 ---   
 **< 👨🏻‍💻Project👨🏻‍💻 >**
  
