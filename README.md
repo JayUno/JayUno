@@ -38,8 +38,8 @@ IoT지식능력검정 1급 | (사)한국사물인터넷협회 | 2019.06
 ✈️Language✈️
 Certificate | Level | Organization | Date
 ---- | ---- | ---- | ----
-Opic(8월 예정) | AL | ACTFL | 2023.04
- 
+Opic | IM | ACTFL | 2023.04
+
 ☀️Activity☀️
 Course | Organization | Activity | Date
 ---- | ---- | ---- | ----
