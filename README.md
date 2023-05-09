@@ -66,6 +66,8 @@ TOEIC | ETS | 2023.08
 JLPT | 일본국제교육지원협회 | 2024.07  
 삼성SDS 하계 대학생 S/W 알고리즘 특강 | 삼성SDS | 2023.07   
 삼성전자 DX 부문 하계 대학생 S/W 특강 | 삼성전자 | 2023.07   
+Team Fight(Web) | Project | 2023.08   
+turret(Embedded) | Project | 2023.08   
   
 🛰️Baekjoon🛰
  
