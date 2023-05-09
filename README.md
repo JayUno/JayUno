@@ -47,9 +47,9 @@ Course | Organization | Activity | Date
 LAS DEFCON 2022 | 정보보호특성화사업단 | 참관 | 2022.08 
  
 🏆Awards🏆
-Certificate | Grade | Date
----- | ---- | ----
-2022 소프트웨어융합대학 캠퍼스 새내기 전공 멘토링 | 대상 | 2022.12
+Certificate | Organization | Grade | Date
+---- | ---- | ---- | ----
+2022 소프트웨어융합대학 캠퍼스 새내기 전공 멘토링 | 세종대학교 소프트웨어융합대학 | 대상 | 2022.12
    
 💻Project💻  
 Certificate | Organization | Date
