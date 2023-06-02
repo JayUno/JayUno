@@ -56,6 +56,11 @@ Certificate | Organization | Date
 ---- | ---- | ----
 침해사고 대응을 위한 대시보드(Sentinel) | 캡스톤디자인 | 2023.06
  
+📖thesis📖  
+Certificate | Organization | Date
+---- | ---- | ----
+Crowd-Analysis | 한국정보보호학회 | 2023.06
+ 
 🍀to be acquired🍀
 Certificate | Organization | Date  
 ---- | ---- | ----
