@@ -2,7 +2,10 @@
 <div align="center">
 
 🔎Profile🔎  
-세종대학교 정보보호학과  
+Organization | Department | Position | Date
+---- | ---- | ---- | ---- 
+세종대학교 | 정보보호학과 | 학사 | 2018.03 - 2023.08
+IBK기업은행 | 정보보호부서 | 인턴 | 2023.07 - 2023.08
  
 ⚒️Skills⚒️   
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -65,15 +68,11 @@ Crowd-Analysis | 한국정보보호학회 | 2023.06
 🍀to be acquired🍀
 Certificate | Organization | Date  
 ---- | ---- | ----
+KISA | 핀테크 아카데미 | 2023  
+금융보안원 | 금융보안 아카데미 | 2023   
 정보보안기사 | 한국방송통신전파진흥원 | 2023.09
 컴퓨터활용능력 1급 | 대한상공회의소 | 2023.05 
 Opic | ACTFL | 2023.08
-TOEIC | ETS | 2023.08  
-JLPT | 일본국제교육지원협회 | 2024.07  
-삼성SDS 하계 대학생 S/W 알고리즘 특강 | 삼성SDS | 2023.07   
-삼성전자 DX 부문 하계 대학생 S/W 특강 | 삼성전자 | 2023.07   
-Team Fight(Web) | Project | 2023.08   
-turret(Embedded) | Project | 2023.08   
   
 🛰️Baekjoon🛰
  
